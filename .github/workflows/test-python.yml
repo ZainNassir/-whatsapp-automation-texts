@@ -1,7 +1,7 @@
 name: Test Python Version
 
 on:
-  workflow_dispatch:  # manual trigger
+  workflow_dispatch:
 
 jobs:
   check-python:
