@@ -15,4 +15,3 @@ jobs:
 
       - name: Show Python version
         run: python --version
-Add test workflow to verify Python version
